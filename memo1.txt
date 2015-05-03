@@ -1,1 +1,2 @@
 OneMaybe memo->one:
+The first time to use Git.
